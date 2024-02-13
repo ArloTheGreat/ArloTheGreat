@@ -9,4 +9,8 @@ Hello my Name is Arlo and I was born on the 14th of January 2009, and I am curre
 ### Why I chose digi tech
 I want to study digi tech because I thought that it would be fun to learn something that I knew neer nothing about.
 
-In the future I would like to create a video game
+### Digital Languages I can use
+I Don't know any languages
+
+### What I want to make in thge future
+In the future I would like to create a video game that works
